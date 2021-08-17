@@ -4,3 +4,5 @@ Deep in his mountain-side meteorology lab, the mad scientist Kelvin has mastered
 Recently, Kelvin began publishing his weather forecasts on his website.
 However there’s a problem: All of his forecasts describe the temperature in Kelvin. 
 Try helping kelvin to convert Kelvin to Celsius, then to Fahrenheit.
+
+--Solution using Javascript
